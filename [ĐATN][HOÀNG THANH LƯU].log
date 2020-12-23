@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.20)  26 OCT 2020 02:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.20)  22 DEC 2020 15:48
 entering extended mode
 **"./[ƒêATN][HO√ÄNG THANH L∆ØU].tex"
 ("[ƒêATN][HO√ÄNG THANH L∆ØU].tex"
@@ -501,102 +501,193 @@ Make it at least 14.93912pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2]
-Ch\uhorn \ohorn ng 1.
-[3
-
-]
-Ch\uhorn \ohorn ng 2.
-[4
-
-]
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 96.
+[2] ("[ƒêATN][HO√ÄNG THANH L∆ØU].toc"
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 2.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 96.
+(Font)              size <12> substituted on input line 2.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 96.
+(Font)              size <6> substituted on input line 2.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 96.
+(Font)              size <12> substituted on input line 2.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 96.
+(Font)              size <6> substituted on input line 2.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 96.
+(Font)              size <12> substituted on input line 2.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 96.
+(Font)              size <6> substituted on input line 2.
 
-[5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[3
+
+])
+\tf@toc=\write4
+\openout4 = `"[ƒêATN][HO√ÄNG THANH L∆ØU].toc"'.
+
+ [4]
+Ch\uhorn \ohorn ng 1.
+[5
+
+]
+Overfull \hbox (9.81436pt too wide) in paragraph at lines 111--117
+\T5/cmr/m/n/13 Ma tr™n $\OML/cmm/m/it/12 A \OT1/cmr/m/n/12 = (\OML/cmm/m/it/12 
+a[]\OT1/cmr/m/n/12 )[]$ \T5/cmr/m/n/13 l† mÎt b£ng sË hºnh ch˙ nh™t $\OML/cmm/m
+/it/12 A[] \OT1/cmr/m/n/12 = []$\T5/cmr/m/n/13 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
 
  []
 
-[7] [8]
-<./image/hinh1.png, id=43, 688.07062pt x 411.78844pt>
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
+
+ []
+
+[9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+[11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+[13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+[15] [16]
+Ch\uhorn \ohorn ng 2.
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+
+ []
+
+[18] [19] [20] [21]
+Overfull \hbox (5.53195pt too wide) in paragraph at lines 379--379
+[]\T5/cmr/bx/n/18.72003 Ph˜Ïng trºnh Euler-Lagrange trong b†i to°n
+ []
+
+[22] [23] [24]
+Ch\uhorn \ohorn ng 3.
+[25
+
+] [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--479
+
+ []
+
+[28] [29]
+<./image/hinh1.png, id=111, 688.07062pt x 411.78844pt>
 File: ./image/hinh1.png Graphic file (type png)
 <use ./image/hinh1.png>
-Package pdftex.def Info: ./image/hinh1.png  used on input line 176.
+Package pdftex.def Info: ./image/hinh1.png  used on input line 521.
 (pdftex.def)             Requested size: 412.84555pt x 247.07495pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--180
+Underfull \hbox (badness 10000) in paragraph at lines 517--525
 
  []
 
-[9] [10 <./image/hinh1.png>] [11] [12] [13] [14] [15]
-<./image/hinh2.png, id=70, 747.54282pt x 367.3725pt>
+[30] [31 <./image/hinh1.png>] [32] [33] [34] [35] [36]
+<./image/hinh2.png, id=138, 747.54282pt x 367.3725pt>
 File: ./image/hinh2.png Graphic file (type png)
 <use ./image/hinh2.png>
-Package pdftex.def Info: ./image/hinh2.png  used on input line 306.
+Package pdftex.def Info: ./image/hinh2.png  used on input line 651.
 (pdftex.def)             Requested size: 448.52916pt x 220.42519pt.
 
-Overfull \hbox (7.51143pt too wide) in paragraph at lines 306--307
+Overfull \hbox (7.51143pt too wide) in paragraph at lines 651--652
  [][] 
  []
 
-[16 <./image/hinh2.png>]
-<./image/hinh3.png, id=75, 721.94719pt x 331.99031pt>
+<./image/hinh3.png, id=139, 721.94719pt x 331.99031pt>
 File: ./image/hinh3.png Graphic file (type png)
 <use ./image/hinh3.png>
-Package pdftex.def Info: ./image/hinh3.png  used on input line 318.
+Package pdftex.def Info: ./image/hinh3.png  used on input line 663.
 (pdftex.def)             Requested size: 433.17165pt x 199.19571pt.
 
-Overfull \hbox (2.11674pt too wide) in paragraph at lines 323--323
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37 <./image/hinh2.png>] [38 <./image/hinh3.png>]
+<./image/hinh4.png, id=148, 998.22937pt x 450.9347pt>
+File: ./image/hinh4.png Graphic file (type png)
+<use ./image/hinh4.png>
+Package pdftex.def Info: ./image/hinh4.png  used on input line 693.
+(pdftex.def)             Requested size: 449.19907pt x 202.91873pt.
+
+Overfull \hbox (8.18134pt too wide) in paragraph at lines 693--694
+ [][] 
+ []
+
+[39]
+Overfull \hbox (2.11674pt too wide) in paragraph at lines 697--697
 []\T5/cmr/bx/n/15.59996 Î ph•n gi£i sË theo ph˜Ïng ph°p tÚy chønh Cauchy 
  []
 
-[17 <./image/hinh3.png>]
-Ch\uhorn \ohorn ng 3.
-[18
+[40 <./image/hinh4.png>] [41] [42] [43]
+<./image/hinh5.png, id=167, 790.45313pt x 363.60844pt>
+File: ./image/hinh5.png Graphic file (type png)
+<use ./image/hinh5.png>
+Package pdftex.def Info: ./image/hinh5.png  used on input line 790.
+(pdftex.def)             Requested size: 434.75056pt x 199.98524pt.
+ [44 <./image/hinh5.png>]
+Ch\uhorn \ohorn ng 4.
+[45
 
 ] ("[ƒêATN][HO√ÄNG THANH L∆ØU].aux")
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.0pt have occurred.
+(Font)              up to 1.75pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 4646 strings out of 480790
- 63737 string characters out of 2897301
- 335605 words of memory out of 3000000
- 20591 multiletter control sequences out of 15000+200000
- 557426 words of font info for 73 fonts, out of 3000000 for 9000
+ 4688 strings out of 480790
+ 64482 string characters out of 2897301
+ 338605 words of memory out of 3000000
+ 20626 multiletter control sequences out of 15000+200000
+ 560183 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,16n,50p,1347b,264s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,16n,50p,1347b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmex10.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -604,17 +695,19 @@ ic/amsfonts/cm/cmmi12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmmi6.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/hoang/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/hoang/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/hoang/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/hoa
-ng/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/U
-sers/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/ms
-bm10.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vn
-bx12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vn
-r12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnt
-i12.pfb>
-Output written on "[ƒêATN][HO√ÄNG THANH L∆ØU].pdf" (19 pages, 299753 bytes).
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/hoang/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/hoang
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
+ers/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pf
+b><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy9.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/symbols/msbm10.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/vntex/vnr/vnbx12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/vntex/vnr/vnr12.pfb><C:/Users/hoang/AppData/Local/Programs/MiKTeX/fonts/type
+1/vntex/vnr/vnti12.pfb>
+Output written on "[ƒêATN][HO√ÄNG THANH L∆ØU].pdf" (46 pages, 491232 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 225 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
